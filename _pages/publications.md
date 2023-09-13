@@ -30,7 +30,7 @@ author_profile: true
 
 17\. Jian Zeng, **Angli Xue**, Longda Jiang, Luke R Lloyd-Jones, Yang Wu, Huanwei Wang, Zhili Zheng, Loic Yengo, Kathryn E Kemper, Naomi R Wray, Peter M Visscher, Jian Yang. Widespread signatures of natural selection across human complex traits and functional genomic categories. ***Nature Communications***. 2021.
 
-16\. Christelle Adolphe*, **Angli Xue<sup>\*</sup>** (co-first author), Laura Genovesi, Atefeh Taherian Fard, Jian Yang<sup>#</sup> and Brandon Wainwright<sup>#</sup>. Genome-wide meta-analyses and functional interaction network analysis reveal regulatory T-cell immune suppression as a key and novel process underlying basal cell carcinoma susceptibility. ***Genome Medicine***. 13 (1), 1-12. 2021.
+16\. Christelle Adolphe*, **Angli Xue<sup>\*</sup>** (co-first author), Laura Genovesi, Atefeh Taherian Fard, Jian Yang<sup>\#</sup> and Brandon Wainwright<sup>\#</sup>. Genome-wide meta-analyses and functional interaction network analysis reveal regulatory T-cell immune suppression as a key and novel process underlying basal cell carcinoma susceptibility. ***Genome Medicine***. 13 (1), 1-12. 2021.
 
 15\. Xiwei Sun, **Angli Xue**, Ting Qi, Yang Wu, Zhili Zheng, Jian Zeng, Jian Yang. Tumor mutational burden is polygenic and genetically associated with complex traits in humans. ***Cancer Research***. 2021. (Cover Story)
 
