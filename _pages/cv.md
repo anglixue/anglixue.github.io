@@ -11,22 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Agronomy, Zhejiang University, 2015
+* Ph.D in Statistical Genetics, The University of Queensland, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016.10 - 2021.4: PhD student
+  * The University of Queensland, QLD, Australia
+  * Supervisor: Professor Jian Yang
+  * Duties included:
+    * Integrated multi-omics data to prioritize functional genes and regulatory mechanisms of type 2 diabetes
+    * Investigated how misreported and longitudinal changes bias the genetic analysis of behavioral traits
+    * Estimated the causal association between human behaviors and complex diseases
+    * Improved the algorithm and co-developed an R software package for Mendelian Randomization analysis
   
+
+* 2015.5 - 2016.5: Casual Research Assistant
+  * Zhejiang University, ZJ, China
+  * Supervisor: Professor Jun Zhu
+  * Duties included:
+    * Analyzed the multi-omics data to detect SNPs and eQTLs associated with startle behavior
+    * Investigated the evolutionary conservation of key genes and pathways between fruit fly and human
+
+
+* 2013.7 - 2013.8: Summer Research Assistant
+  * University of Illinois at Urbana-Champaign, IL, United States
+  * Supervisor: Professor Mohammad Babadoost
+  * Duties included:
+    * Measured the sensitivities of a list of Phytophthora capsici isolates from pumpkins in Illinois to a fungicide dimethomorph (DMT) by determining EC50 of colony diameter growth
+
+
 Skills
 ======
 * Skill 1
@@ -47,12 +61,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
