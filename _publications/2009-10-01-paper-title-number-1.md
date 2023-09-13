@@ -1,7 +1,7 @@
 ---
 title: "Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 
 excerpt: 'This paper is about discussing the pitfalls and opportunities when using latent variables in the single-cell eQTL mapping analysis.'
 date: 2023-02-23
 venue: 'Genome Biology'
