@@ -48,7 +48,7 @@ author_profile: true
 
 8\. Enda M Byrne, Manuel Ferreira, **Angli Xue**, Sara Lindström, Xia Jiang, Douglas Easton, Naomi R Wray, Georgia Chenevix-Trench. Is schizophrenia a risk factor for breast cancer? – Evidence from genetic data. ***Schizophrenia Bulletin***. 2018.
 
-7\. **Angli Xue<sup>*</sup>**, Yang Wu<sup>*</sup>, Zhihong Zhu, Futao Zhang, Kathryn E Kemper, Zhili Zheng, Loic Yengo, Luke R. Lloyd-Jones, Julia Sidorenko, Yeda Wu, eQTLGen Consortium, Allan F McRae, Peter M Visscher, Jian Zeng<sup>\#</sup>, Jian Yang<sup>\#</sup>. Genome-wide association analyses identify 143 risk variants and putative regulatory mechanisms for type 2 diabetes. ***Nature Communications***. 9(1), 2018.
+7\. **Angli Xue<sup>\*</sup>**, Yang Wu<sup>\*</sup>, Zhihong Zhu, Futao Zhang, Kathryn E Kemper, Zhili Zheng, Loic Yengo, Luke R. Lloyd-Jones, Julia Sidorenko, Yeda Wu, eQTLGen Consortium, Allan F McRae, Peter M Visscher, Jian Zeng<sup>\#</sup>, Jian Yang<sup>\#</sup>. Genome-wide association analyses identify 143 risk variants and putative regulatory mechanisms for type 2 diabetes. ***Nature Communications***. 9(1), 2018.
 
 6\. Jian Zeng, Ronald de Vlaming, Yang Wu, Matthew Robinson, Luke Lloyd-Jones, Loic Yengo, Chloe Yap, **Angli Xue**, Julia Sidorenko, Allan McRae, Joseph Powell, Grant Montgomery, Andres Metspalu, Tonu Esko, Greg Gibson, Naomi Wray, Peter Visscher, Jian Yang. Signatures of negative selection in the genetic architecture of human complex traits. ***Nature Genetics***. 50.5 (2018): 746.
 
