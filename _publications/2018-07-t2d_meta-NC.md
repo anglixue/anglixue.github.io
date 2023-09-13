@@ -6,7 +6,7 @@ excerpt: 'This paper conducted the largest T2D meta-analysis of GWAS and identif
 date: 2018-07-27
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-018-04951-w'
-citation: '**Angli Xue***, Yang Wu*, Zhihong Zhu, Futao Zhang, Kathryn E Kemper, Zhili Zheng, …, Jian Zeng, Jian Yang. Genome-wide association analyses identify 143 risk variants and putative regulatory mechanisms for type 2 diabetes. <i>Nature Communications</i>. 12, 6450 (2018).'
+citation: 'Angli Xue*, Yang Wu*, Zhihong Zhu, Futao Zhang, Kathryn E Kemper, Zhili Zheng, …, Jian Zeng#, Jian Yang#. Genome-wide association analyses identify 143 risk variants and putative regulatory mechanisms for type 2 diabetes. <i>Nature Communications</i>. 12, 6450 (2018).'
 ---
 
 [Download paper here](https://www.nature.com/articles/s41467-018-04951-w.pdf)
