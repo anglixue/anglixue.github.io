@@ -2,7 +2,7 @@
 title: "Genome-wide analyses of behavioural traits are subject to bias by misreports and longitudinal changes"
 collection: publications
 permalink: /publications/2021-01-misreport-NC
-excerpt: 'This paper discussed the pitfalls and opportunities when using latent variables in the single-cell eQTL mapping analysis.'
+excerpt: 'This paper demonstrated that behavioural traits are subject to misreports and longitudinal changes (MLC) which can cause biases in GWAS and follow-up analyses.'
 date: 2023-02-23
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-020-20237-6'
