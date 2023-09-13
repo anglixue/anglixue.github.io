@@ -1,8 +1,8 @@
 ---
 title: "Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses"
 collection: publications
-permalink: 
-excerpt: 'This paper is about discussing the pitfalls and opportunities when using latent variables in the single-cell eQTL mapping analysis.'
+permalink: /publications/2009-10-01-paper-title-number-1
+excerpt: 'This paper discussed the pitfalls and opportunities when using latent variables in the single-cell eQTL mapping analysis.'
 date: 2023-02-23
 venue: 'Genome Biology'
 paperurl: 'https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-02873-5'
@@ -11,4 +11,4 @@ citation: 'Angli Xue#, Seyhan Yazar, Drew Neavin, Joseph E. Powell#. "Pitfalls a
 
 [Download paper here](https://genomebiology.biomedcentral.com/counter/pdf/10.1186/s13059-023-02873-5.pdf)
 
-Recommended citation: Angli Xue#, Seyhan Yazar, Drew Neavin, Joseph E. Powell#. "Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses". <i>Genome Biology</i>. 24.1 (2023): 1-11.
+Citation: Angli Xue#, Seyhan Yazar, Drew Neavin, Joseph E. Powell#. "Pitfalls and opportunities for applying latent variables in single-cell eQTL analyses". <i>Genome Biology</i>. 24.1 (2023): 1-11.
