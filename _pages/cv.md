@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Agronomy, Zhejiang University, 2015
@@ -65,5 +66,5 @@ Service and leadership
 * Team co-lead in [THE SYSTEMS IMMUNOLOGY HACKATHON](https://www.immunology.org.au/events/2022-ASI-Systems-Immunology-SIG-Hackathon/) by OzSinglCell and ASI (2022 - now)
 * Guest editor in Special Issue "[Genetic Architecture of Human Complex Diseases](https://www.mdpi.com/journal/genes/special_issues/3L73G34ZP6)" for journal *Genes* (2023 - now)
 * Regular reviewer panel in the [Statistical Genetics & Genomics](https://academic.oup.com/genetics/pages/early-career-reviewers) section for the journal *GENETICS* (2019 - 2022)
-* *Ad hoc* reviewer for Nature Human Behavior (2022), Nature Medicine (2021), Genetics (2019, 2020, 2021, 2022, 2022), G3: Genes | Genomes | Genetics (2021), Diabetes (2023), NAR genomics and bioinformatics (2023), Clinical Obesity (2020), Nucleic Acids Research (2018, 2019, 2020), Journal of Human Genetics (2019), EBioMedicine (2018)
+* *Ad hoc* reviewer for Nature Human Behavior (2022), Nature Medicine (2021), Genetics (2019, 2020, 2021, 2022, 2022), G3: Genes, Genomes, Genetics (2021), Diabetes (2023), NAR genomics and bioinformatics (2023), Clinical Obesity (2020), Nucleic Acids Research (2018, 2019, 2020), Journal of Human Genetics (2019), EBioMedicine (2018)
 
