@@ -36,7 +36,7 @@ Work experience
 
 
 * 2013.7 - 2013.8: Summer Research Assistant
-  * University of Illinois at Urbana-Champaign, IL, United States
+  * University of Illinois at Urbana-Champaign, IL, the United States
   * Supervisor: Professor Mohammad Babadoost
   * Duties included:
     * Measured the sensitivities of a list of *Phytophthora capsici* isolates from pumpkins in Illinois to a fungicide dimethomorph (DMT) by determining EC50 of colony diameter growth
