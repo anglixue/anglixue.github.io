@@ -17,6 +17,15 @@ Education
 
 Work experience
 ======
+* 2021.5 - now: Postdoc Scientist
+  * Garvan Institute of Medical Research, NSW, Australia
+  * Supervisor: Professor Joseph Powell
+  * Duties included:
+    * Analyzed the scRNA-seq data of ~1 million peripheral blood mononuclear cell from ~1,000 individuals 
+    *	Identified genetic variants associated with intra-individual variance on the gene expression level 
+    *	Integrated multi-omics data to discover novel biomarkers for autoimmune diseases
+
+      
 * 2016.10 - 2021.4: PhD student
   * The University of Queensland, QLD, Australia
   * Supervisor: Professor Jian Yang
@@ -54,17 +63,25 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2021  DeLill Nasser Award for Professional Development in Genetics, Genetics Society of America
+* 2020  Chinese Scholarship Council Award for Outstanding Students Abroad 
+* 2020  UQ IMB Writing-up Award
+* 2019  UQ IMB Travel Award for International Conference
+* 2018  UQ IMB Research Higher Degree Top-up Scholarships 
+* 2018  Outstanding Contribution in Reviewing Award, EBioMedicine Journal
+* 2016  University of Queensland International Scholarship (full tuition and living stipend)   
+* 2015  Outstanding Thesis Award for Bachelor's Degree, Zhejiang University    
+* 2015  Summer Program Scholarship of the Council for Higher Education, the Government of Israel
+* 2014  Scholarship for Outstanding Performance in Research and Innovation, Zhejiang University
+* 2013  Gold Medal & Best Biobrick Measurement Approach, International Genetically Engineered Machine (iGEM) Competition, Asian region
 
   
 Service and leadership
 ======
 * Team co-lead in [THE SYSTEMS IMMUNOLOGY HACKATHON](https://www.immunology.org.au/events/2022-ASI-Systems-Immunology-SIG-Hackathon/) by OzSinglCell and ASI (2022 - now)
-* Guest editor in Special Issue "[Genetic Architecture of Human Complex Diseases](https://www.mdpi.com/journal/genes/special_issues/3L73G34ZP6)" for journal *Genes* (2023 - now)
+* Guest Editor for Special Issue "[Genetic Architecture of Human Complex Diseases](https://www.mdpi.com/journal/genes/special_issues/3L73G34ZP6)" for journal *Genes* (2023 - now)
 * Regular reviewer panel in the [Statistical Genetics & Genomics](https://academic.oup.com/genetics/pages/early-career-reviewers) section for the journal *GENETICS* (2019 - 2022)
-* *Ad hoc* reviewer for Nature Human Behavior (2022), Nature Medicine (2021), Genetics (2019, 2020, 2021, 2022, 2022), G3: Genes, Genomes, Genetics (2021), Diabetes (2023), NAR genomics and bioinformatics (2023), Clinical Obesity (2020), Nucleic Acids Research (2018, 2019, 2020), Journal of Human Genetics (2019), EBioMedicine (2018)
+* *Ad hoc* reviewer for Nature Medicine, Nature Human Behavior, Nucleic Acids Research, Diabetes, EBioMedicine, Genetics, G3: Genes,Genomes,Genetics, NAR genomics and bioinformatics, Human Genetics, Clinical Obesity, Journal of Human Genetics.
 
