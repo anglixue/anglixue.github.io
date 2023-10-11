@@ -10,6 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
+<small>(updated to 11-OCT-2023)</small>
+
+
 Education
 ======
 * B.S. in Agronomy, Zhejiang University, 2015
