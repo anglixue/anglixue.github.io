@@ -10,12 +10,12 @@ author_profile: true
 
 <small>(updated to 11-OCT-2023)</small>
 
-
+<br>
 Research Interests
 ======
 I am generally interested in understanding the genetic basis of complex diseases by applying existing and developing novel statistical and computational tools.
 
-
+<br>
 Current Research
 ======
 
@@ -23,8 +23,7 @@ Current Research
 * Identified genetic variants associated with intra-individual variance on the gene expression level 
 * Integrated multi-omics data to discover novel biomarkers for autoimmune diseases
 
-
-
+<br>
 Past Research
 ======      
 
