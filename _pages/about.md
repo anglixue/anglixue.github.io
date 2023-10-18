@@ -13,4 +13,7 @@ I am a Postdoc Scientist in [Powell Lab](https://www.garvan.org.au/research/labs
 I obtained my PhD in 2021 at The University of Queensland working with Prof. [Jian Yang](https://en.westlake.edu.cn/faculty/jian-yang.html) in the field of statistical genetics. During my PhD, I utilised statistical and computational methods to dissect the genetic architecture of human complex diseases, perform meta-analyses and integrate multi-omics data to identify associated gene loci and gene regulatory mechanisms. I conducted [the largest genetic study of type 2 diabetes](https://www.uq.edu.au/news/article/2018/07/largest-genetic-study-of-type-2-diabetes-offers-hope-of-better-treatment) and highlighted three T2D-associated genes with plausible regulatory mechanisms where a genetic variant exerts an effect on T2D through epigenetic regulation of gene expression. I also co-developed a software tool ([GSMR2](https://github.com/jianyanglab/gsmr2) for evaluating the causal relationship between modifiable risk factors and complex diseases. I was awarded the DeLill Nasser Award for Professional Development in Genetics (Genetics Society of America) in recognition of my PhD work. Before moving to Australia, I completed the BSc (Agronomy) at Zhejiang University, China in 2015.
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=cReppEAyaGn47bEIfFgKxi-aUq5J9HAhCMA5pTh9vlQ&cl=ffffff&w=a"></script>
+
+This is some inline `<b>HTML</b>` code.
+
+`<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=cReppEAyaGn47bEIfFgKxi-aUq5J9HAhCMA5pTh9vlQ&cl=ffffff&w=a"></script>`
