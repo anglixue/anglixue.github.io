@@ -68,6 +68,7 @@ Publications
   
 Awards
 ======
+* 2023  CASS (Contributing to Australian Scholarship and Science) Travel Award
 * 2021  DeLill Nasser Award for Professional Development in Genetics, Genetics Society of America
 * 2020  Chinese Scholarship Council Award for Outstanding Students Abroad 
 * 2020  UQ IMB Writing-up Award
