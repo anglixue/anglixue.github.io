@@ -31,7 +31,7 @@ Current Research
 Past Research
 ======      
 
-<u>**Single-cell pseudo-bulk eQTL mapping**</u>
+<strong><u>Single-cell pseudo-bulk eQTL mapping</strong></u>
 
 I evaluated the pitfalls and opportunities for applying latent variables in single-cell eQTL analyses. In the eQTL association analysis, people typically infer latent variables from the expression matrix and incorporate the inferred variables as covariates in the association model to remove unwanted variations. However, in recent studies published by our lab, it was found that the number of detected eGenes dropped with the incremental increase of PEER factors (Yazar et al. Science. 2022; Neavin et al. Genome Biology. 2021). I dug into this issue and found that the loss of power is due to the unique data structure of the single-cell pseudo-bulk matrix (including sparsity, skewness, and mean-variance relationship). I proposed a series of quality controls and a novel algorithm to decide the number of latent variables adjusted in the association model.
 
