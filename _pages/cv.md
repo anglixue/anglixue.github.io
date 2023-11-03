@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<small>(updated to 11-OCT-2023)</small>
+<small>(updated to 03-NOV-2023)</small>
 
 
 Education
