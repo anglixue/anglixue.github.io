@@ -57,7 +57,7 @@ Work experience
 Skills
 ======
 * Programming: R, Python, bash scripting
-* High Performance Computing: SGE and PBS systems
+* High-Performance Computing: SGE and PBS systems
 * Software: Seurat, PLINK, GCTA, BOLT-LMM, SAIGE, LD score regression, MatrixeQTL/TensorQTL, SMR, coloc
 
 Publications
@@ -68,6 +68,7 @@ Publications
   
 Awards
 ======
+
 * 2023  CASS (Contributing to Australian Scholarship and Science) Travel Award
 * 2021  DeLill Nasser Award for Professional Development in Genetics, Genetics Society of America
 * 2020  Chinese Scholarship Council Award for Outstanding Students Abroad 
