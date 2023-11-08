@@ -23,7 +23,7 @@ Current Research
 
 * Curating the largest single-cell multi-omics cohort (TenK10K) which profiles the scRNA-seq data of ~50 million peripheral blood mononuclear cells from ~10,000 individuals 
 * Identifying genetic variants associated with intra-individual variance on the gene expression level (sc-veQTL)
-* Integrating multi-omics data to discover novel biomarkers for autoimmune diseases
+* Integrating multi-omics data to discover novel biomarkers for autoimmune diseases by using causal inference techniques
 * Utilising gene regulatory network and single-cell eQTL mapping to unveil causal genes for autoimmune diseases
 
 <br>
@@ -45,7 +45,7 @@ Citation: **Angli Xue**, Yang Wu, Zhihong Zhu, Futao Zhang, Kathryn E Kemper, Zh
 
 <strong><u>Population Genetics</u></strong>
 
-Previous studies have found conflicting evidence of the relationship between alcohol consumption and cardiovascular traits (Griswold et al. The Lancet. 2018; Liu et al. Nature Genetics. 2019). I provided a plausible explanation for this long-standing controversy about the effects of alcohol consumption on health outcomes in genetic and epidemiological studies. **My research pointed out that the discrepancy was mainly due to the misreports and longitudinal changes (MLC) in the dataset. I proposed a novel approach to correct the biases by combining medical records and online follow-up questionnaires in the UK Biobank and almost all the previously reported negative estimates of genetic correlations between alcohol consumption and common diseases become positive/non-significant after the MLC corrections.** I further caution researchers about potential caveats in large-scale genetic studies of behavioural traits. 
+Previous studies have found conflicting evidence of the relationship between alcohol consumption and cardiovascular traits (Griswold et al. The Lancet. 2018; Liu et al. Nature Genetics. 2019). I provided a plausible explanation for this long-standing controversy about the effects of alcohol consumption on health outcomes in genetic and epidemiological studies. My research pointed out that **the discrepancy was mainly due to the misreports and longitudinal changes (MLC)** in the dataset. I proposed a novel approach to correct the biases by combining medical records and online follow-up questionnaires in the UK Biobank and **almost all the previously reported negative estimates of genetic correlations between alcohol consumption and common diseases become positive/non-significant after the MLC corrections.** I further caution researchers about potential caveats in large-scale genetic studies of behavioural traits. 
 
 Citation: **Angli Xue**, Longda Jiang, Zhihong Zhu, Naomi R. Wray, Peter M. Visscher, Jian Zeng, Jian Yang. Genome-wide analyses of behavioral traits are subject to bias by misreports and longitudinal changes. ***Nature Communications***. 12, 6450 (2021). [[full text](https://www.nature.com/articles/s41467-020-20237-6)]
 
