@@ -34,7 +34,7 @@ Work experience
   * Supervisor: Professor Jian Yang
   * Duties included:
     * Integrated multi-omics data to prioritize functional genes and regulatory mechanisms of type 2 diabetes
-    * Investigated how misreported and longitudinal changes bias the genetic analysis of behavioral traits
+    * Investigated how misreports and longitudinal changes bias the genetic analysis of behavioral traits
     * Evaluated the causal association between human behaviors and complex diseases
     * Improved the algorithm and co-developed an R software package ([GSMR2](https://github.com/jianyanglab/gsmr2)) for Mendelian Randomization analysis
   
