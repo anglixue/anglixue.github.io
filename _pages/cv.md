@@ -54,11 +54,14 @@ Work experience
     * Measured the sensitivities of a list of *Phytophthora capsici* isolates from pumpkins in Illinois to a fungicide dimethomorph (DMT) by determining EC50 of colony diameter growth
 
 
-Skills
+Grants
 ======
-* Programming: R, Python, bash scripting
-* High-Performance Computing: SGE and PBS systems
-* Software: Seurat, PLINK, GCTA, BOLT-LMM, SAIGE, LD score regression, MatrixeQTL/TensorQTL, SMR, coloc
+* 2025 Chief Investigator, NHMRC Investigator Grant, Emerging Leadership 1 ($674,400 AUD)
+
+    Project: Identifying and characterising gene regulatory networks of autoimmune diseases at single-cell resolution
+* 2025 Chief Investigator, Ramaciotti Health Investment Grant ($200,000 AUD, including matching funds)
+
+    Project: Facilitating drug repurposing for autoimmune disease patients by utilising multi-omics markers
 
 Publications
 ======
@@ -68,7 +71,8 @@ Publications
   
 Awards
 ======
-
+* 2025  Reviewer’s Choice Award, American Society of Human Genetics (ASHG)
+* 2024  ASI (Australian Society of Immunology) Postdoc Travel Award
 * 2023  CASS (Contributing to Australian Scholarship and Science) Travel Award
 * 2021  DeLill Nasser Award for Professional Development in Genetics, Genetics Society of America
 * 2020  Chinese Scholarship Council Award for Outstanding Students Abroad 
@@ -90,3 +94,8 @@ Service and leadership
 * Regular reviewer panel in the [Statistical Genetics & Genomics](https://academic.oup.com/genetics/pages/early-career-reviewers) section for the journal *GENETICS* (2019 - 2022)
 * *Ad hoc* reviewer for Nature Medicine, Nature Human Behavior, Nucleic Acids Research, Diabetes, EBioMedicine, Genetics, G3: Genes,Genomes,Genetics, NAR genomics and bioinformatics, Human Genetics, Clinical Obesity, Journal of Human Genetics.
 
+Skills
+======
+* Programming: R, Python, bash scripting
+* High-Performance Computing: SGE and PBS systems
+* Software: Seurat, PLINK, GCTA, BOLT-LMM, SAIGE, LD score regression, MatrixeQTL/TensorQTL, SMR, coloc
