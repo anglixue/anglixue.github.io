@@ -24,7 +24,7 @@ Work experience
   * Garvan Institute of Medical Research, NSW, Australia
   * Supervisor: Professor Joseph Powell
   * Duties included:
-    * Analyzed the scRNA-seq data of ~1 million peripheral blood mononuclear cell from ~1,000 individuals 
+    * Analyzed population-level single-cell multiomics data (TenK10K) to identify genetic association with molecular phenotypes (gene expression + chromatin accessibility) 
     *	Identified genetic variants associated with intra-individual variance on the gene expression level 
     *	Integrated multi-omics data to discover novel biomarkers for autoimmune diseases
 
