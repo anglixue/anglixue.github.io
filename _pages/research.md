@@ -24,7 +24,7 @@ Work experience
   * Garvan Institute of Medical Research, NSW, Australia
   * Supervisor: Professor Joseph Powell
   * Duties included:
-    * Analyzed the scRNA-seq data of ~1 million peripheral blood mononuclear cell from ~1,000 individuals 
+    * Analyzed population-level single-cell multiomics data (TenK10K) to identify genetic association with molecular phenotypes (gene expression + chromatin accessibility) 
     *	Identified genetic variants associated with intra-individual variance on the gene expression level 
     *	Integrated multi-omics data to discover novel biomarkers for autoimmune diseases
 
@@ -34,7 +34,7 @@ Work experience
   * Supervisor: Professor Jian Yang
   * Duties included:
     * Integrated multi-omics data to prioritize functional genes and regulatory mechanisms of type 2 diabetes
-    * Investigated how misreported and longitudinal changes bias the genetic analysis of behavioral traits
+    * Investigated how misreports and longitudinal changes bias the genetic analysis of behavioral traits
     * Evaluated the causal association between human behaviors and complex diseases
     * Improved the algorithm and co-developed an R software package ([GSMR2](https://github.com/jianyanglab/gsmr2)) for Mendelian Randomization analysis
   
