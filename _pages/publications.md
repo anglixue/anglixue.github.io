@@ -19,6 +19,9 @@ author_profile: true
 <br> 
 
 # Full publication
+23\. **Angli Xue**, Zhihong Zhu, Huanwei Wang, Longda Jiang, Peter M. Visscher, Jian Zeng, Jian Yang. Unravelling the complex causal effects of substance use behaviours on common diseases. Communications Medicine. 4.1 (2024): 43.
+
+22\. Rika Tyebally, **Angli Xue**, Joseph E. Powell. The potential clinical impact of cell type-specific genetic regulation: Crohn's disease. Clinical and Translational Medicine. 13.11 (2023): e1474.
 
 21\. **Angli Xue<sup>#</sup>**, Seyhan Yazar, Drew Neavin, Joseph E. Powell<sup>#</sup>. Pitfalls and opportunities for applying PEER factors in single-cell eQTL analyses. ***Genome Biology***. 24.1 (2023): 1-11.
 
@@ -69,3 +72,21 @@ author_profile: true
 \* co-first author
 
 \# corresponding author
+
+
+# Preprints
+30\. Angli Xue#, Jianan Fan, Oscar A. Dong, Hao Lawrence Huang, Peter C. Allen, Eleanor Spencele, Eszter Sagi-Zsigmond, Blake Bowen, Anna S.E. Cuomo, Albert Henry, Hope A. Tanudisastro, Zhen Qiao, Ling Chen, Eyal Ben-David, Kyle Kai-How Farh, Drew Neavin, Arthur S. Lee, Anne Senabouth, Caitlin Bartie, Rachael A. McCloy, Venessa Chin, Katrina M. de Lang, Gemma A. Figtree, Alex W. Hewitt, Daniel G. MacArthur, Joseph E. Powell#. Genetic regulation of cell type–specific chromatin accessibility shapes immune function and disease risk. medRxiv. 2025. (Under review)
+
+29\. Albert Henry, Anne Senabouth, Rika Tyebally, Blake Bowen, Peter C. Allen, Eleanor Spenceley, Eszter Sagi-Zsigmond, Anna S.E. Cuomo, Jianan Fan, Hao Lawrence Huang, Hope A. Tanudisastro, Angli Xue, Katrina M. de Lange, Gemma A. Figtree, Alex W. Hewitt, Daniel G. MacArthur, Joseph E. Powell. Single-cell genetics identifies cell type-specific causal mechanisms in complex traits and diseases. medRxiv. 2025. (Under review)
+
+28\. Dhruti Parikh*, Angli Xue*, Hsiao-Chi Liao*, Claire Wishart, Thomas Myles Ashhurst, Givanna Putri, Fabio Luciani, Sr., Shalin Naik, Agus Salim, Felix Marsh-Wakefield and Raymond Louie. Identifying the Minimal Number of Protein Markers for Cell Type Annotation Using MiniMarS. 2025. (Under Review)
+
+27\. Anna SE Cuomo, Eleanor Spenceley, Hope A Tanudisastro, Blake Bowen, Albert Henry, Hao Lawrence Huang, Angli Xue, Wei Zhou, Matthew J Welland, Arthur S Lee, Kristof Wing, Owen Tang, Michael P Gray, Michael Franklin, Michael Harper, Michael Silk, Katalina Bobowik, Alexander Stuckey, John Marshall, Vivian Bakiris, Caitlin Uren, Bindu Swapna Madala, Amy Miniter, Caitlin Bartie, Drew R Neavin, Zhen Qiao, Eyal Ben-David, Ling Chen, Kyle Kai-How Farh, Stuart M Grieve, Tung Nguyen, Jennifer Piscionere, Owen M Siggs, Hannah Nicholas, Katrina M de Lange, Alex W Hewitt, Gemma A Figtree, Daniel G MacArthur#, Joseph E Powell#. Impact of Rare and Common Genetic Variation on Cell Type-Specific Gene Expression. medRxiv. 2025. (Under review)
+
+26\. Hope A Tanudisastro, Anna SE Cuomo, Ben Weisburd, Matthew Welland, Eleanor Spenceley, Michael Franklin, Angli Xue, Blake Bowen, Kristof Wing, Owen Tang, Michael Gray, Andre LM Reis, Jonathan Margoliash, Edibe Nehir Kurtas, Jeffrey Pullin, Arthur S Lee, Harrison Brand, Michael Harper, Katalina Bobowik, Michael Silk, John Marshall, Vivian Bakiris, Bindu Swapna Madala, Caitlin Uren, Caitlin Bartie, Anne Senabouth, Harriet Dashnow, Liam Fearnley, Egor Dolzhenko, Zhen Qiao, Stuart Grieve, Tung Nguyen, Michael Talkowski, Stephen I Alexander, Owen M Siggs, Leonhard Gruenschloss, Hannah R Nicholas, Jennifer Piscionere, Cas Simons, Chris Wallace, Melissa Gymrek, Ira W Deveson, Alex W Hewitt, Gemma A Figtree, Katrina M de Lange, Joseph E Powell#, Daniel G MacArthur#. Polymorphic tandem repeats shape single-cell gene expression across the immune landscape. BioRxiv. 2024. (Under review)
+
+25\. Angli Xue, Seyhan Yazar, José Alquicira-Hernández, Anna S E Cuomo, Anne Senabouth, Gracie Gordon, Pooja Kathail, Chun Jimme Ye, Alex W. Hewitt, Joseph E. Powell#. Genetic variants associated with cell-type-specific intra-individual gene expression variability reveal new mechanisms of genome regulation. bioRxiv. 2024. (Under second revision)
+
+24\. Wei Zhou, Anna S.E. Cuomo, Angli Xue, Masahiro Kanai, Grant Chau, Chirag Krishna, Ramnik J. Xavier, Daniel G. MacArthur, Joseph E. Powell, Mark J. Daly, Benjamin M. Neale. An efficient and accurate mixed model association tool for single-cell eQTL analysis. medRxiv. 2024. (Under review)
+
+
